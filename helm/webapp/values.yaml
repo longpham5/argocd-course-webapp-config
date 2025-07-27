@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: longpham5/argocd-course-webapp
+  repository: longppham5/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 1f5103d2146b524ae0b46e84a21bab0a092724db
